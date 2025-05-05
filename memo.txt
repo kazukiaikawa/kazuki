@@ -1,3 +1,4 @@
 memo C:\Program Files\Google\Chrome\Application\chrome.exe
 <?php
+echo 1+7;
 ?>
