@@ -1,0 +1,7 @@
+memo C:\Program Files\Google\Chrome\Application\chrome.exe
+<?php
+$A=10
+$A+10;
+
+echo "コマンド"
+?>
